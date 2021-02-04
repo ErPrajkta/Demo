@@ -1,0 +1,6 @@
+c:\users\user076_xtremtec\documents\visual studio 2013\Projects\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.exe.config
+c:\users\user076_xtremtec\documents\visual studio 2013\Projects\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.exe
+c:\users\user076_xtremtec\documents\visual studio 2013\Projects\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.pdb
+c:\users\user076_xtremtec\documents\visual studio 2013\Projects\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\user076_xtremtec\documents\visual studio 2013\Projects\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.exe
+c:\users\user076_xtremtec\documents\visual studio 2013\Projects\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.pdb
